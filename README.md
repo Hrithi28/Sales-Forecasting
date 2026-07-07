@@ -29,5 +29,5 @@ streamlit run app.py                 # to launch the dashboard locally
 Both just need your GitHub/Google login, so they have to happen from your side — everything else
 in this folder is complete and tested.
 
-Colab link - https://colab.research.google.com/drive/1dSI3PoaL0AL6pFfhvqwyKbM5n4YVGomf?usp=sharing
-Streamlit App link - https://sales-forecasting-bvdg5prnpj628sypzmgxxv.streamlit.app/
+- **Colab Link:** https://colab.research.google.com/drive/1dSI3PoaL0AL6pFfhvqwyKbM5n4YVGomf?usp=sharing
+- **Streamlit App:** https://sales-forecasting-bvdg5prnpj628sypzmgxxv.streamlit.app/
